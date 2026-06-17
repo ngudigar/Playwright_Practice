@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2507","get started link","chromium","2026-06-17","passed","2026-06-17","","example.spec.ts","",""
+"","2505","should have title","chromium","2026-06-17","passed","2026-06-17","","sampleUI.spec.ts","",""
+"","2174","has title","chromium","2026-06-17","passed","2026-06-17","","example.spec.ts","",""
